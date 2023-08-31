@@ -1,6 +1,6 @@
 {
   "_comment": "See README for more details on what to place in these fields",
-  "DATA_DIR": "/scratch/wfb229/sfp_fully_test",
+  "DATA_DIR": "/Volumes/server/Projects/sfp_nsd/trash",
   "MRI_TOOLS": "/home/billbrod/Documents/MRI_tools",
   "WORKING_DIR": "/users-local/broderick/preprocess",
   "GLMDENOISE_PATH": "/home/billbrod/Documents/MATLAB/toolboxes/GLMdenoise",
